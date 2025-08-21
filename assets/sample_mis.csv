@@ -1,0 +1,11 @@
+date,segment,region,channel,product,orders,units,gmv,revenue,cost,customers
+2025-07-01,SMB,North,Online,Alpha,120,140,240000,200000,120000,110
+2025-07-02,SMB,North,Online,Alpha,130,150,255000,212000,127000,118
+2025-07-03,SMB,South,Reseller,Beta,95,110,150000,122000,83000,90
+2025-07-04,Enterprise,West,Online,Gamma,50,60,400000,320000,210000,45
+2025-07-05,SMB,East,Offline,Alpha,70,80,90000,72000,43000,65
+2025-07-06,Enterprise,North,Online,Delta,42,55,500000,410000,260000,40
+2025-07-07,SMB,South,Online,Beta,100,120,180000,148000,92000,95
+2025-07-08,SMB,South,Reseller,Beta,88,100,140000,114000,78000,82
+2025-07-09,Enterprise,West,Online,Gamma,55,65,420000,338000,225000,50
+2025-07-10,SMB,East,Offline,Alpha,74,82,96000,77000,47000,66
